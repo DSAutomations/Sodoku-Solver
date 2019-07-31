@@ -1,5 +1,6 @@
 # Sudoku-Solver
 Author: Dylan Straub
+
 Video of the solver in action is here: https://youtu.be/-7pn8Rv9nQw
 
 This is a Sudoku solver written in Python3 with no dependencies, demonstrating
