@@ -1,10 +1,10 @@
-# Sodoku-Solver
+# Sudoku-Solver
 
-Sodoku Solver
+Sudoku Solver
 
 Author: Dylan Straub
 
-This is a Sodoku solver written in Python3 with no dependencies, demonstrating
+This is a Sudoku solver written in Python3 with no dependencies, demonstrating
 object oriented programming and recursion.
 
 Inspired by a YouTube lecture series by Richard Buckland, UNSW
@@ -12,7 +12,7 @@ https://www.youtube.com/user/BucklandRichard/videos
 
 This program consists of three classes:
 
-    Tile:   models an indivial square of the Sodoku board
+    Tile:   models an indivial square of the Sudoku board
             aware of its own row/column position and value
 
     Board:  a collection of 81 tile objects in a list
@@ -22,7 +22,7 @@ This program consists of three classes:
             must instantiate with a board object
             a solution is generated upon creation
 
-The Sodoku board is represented as a list indexed in a left-to-right, top-to-bottom order.
+The Sudoku board is represented as a list indexed in a left-to-right, top-to-bottom order.
 
 A valid input string is an 81 character string indexed in this manner.
 All blank spaces shall be represented by the ```.``` character.
