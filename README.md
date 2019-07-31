@@ -1,9 +1,10 @@
 # Sodoku-Solver
 
 Sodoku Solver
+
 Author: Dylan Straub
 
-This is a Sodoku solver written in Python3 with no dependencies demonstrating
+This is a Sodoku solver written in Python3 with no dependencies, demonstrating
 object oriented programming and recursion.
 
 Inspired by a YouTube lecture series by Richard Buckland, UNSW
@@ -23,8 +24,8 @@ This program consists of three classes:
 
 The Sodoku board is represented as a list indexed in a left-to-right, top-to-bottom order.
 
-A valid input string is an 81 character string indexed in this manner
-All blank spaces shall be represented by the '.' character.
+A valid input string is an 81 character string indexed in this manner.
+All blank spaces shall be represented by the ```.``` character.
 
 For example, the the following board:
 ```
