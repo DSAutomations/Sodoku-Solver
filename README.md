@@ -3,6 +3,8 @@ Author: Dylan Straub
 
 Video of the solver in action is here: https://youtu.be/-7pn8Rv9nQw
 
+Solving the 'World's Hardest' sudoku puzzle: https://youtu.be/3Iukl7L-8ZE
+
 This is a Sudoku solver written in Python3 with no dependencies, demonstrating
 object oriented programming and recursion.
 
